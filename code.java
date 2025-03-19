@@ -10,5 +10,8 @@ public class Main {
         int k = sc.nextInt();
         int[] ans = new int[n];
        int j=0;
+       int i=0;
+       int m=0;
+       
     }
 }
